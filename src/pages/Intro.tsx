@@ -10,7 +10,6 @@ const Intro = () => {
         justifyItems: 'center',
         alignItems: 'center',
         minHeight: '100vh',
-        color: 'white'
       }}
     >
       <Grid item xs={12} sm={6} md={4}>
